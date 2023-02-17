@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFoodDto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FoodDto>
+    <Id>1</Id>
+    <Name>Pizza Margherita</Name>
+    <Price>AZN 2.50</Price>
+    <Src>https://imageproxy.wolt.com/menu/menu-images/88983792-b6b4-11e9-b57c-0a5864661858_MARGARI_TA.jpeg</Src>
+  </FoodDto>
+  <FoodDto>
+    <Id>2</Id>
+    <Name>Pizza Mamma Margherita</Name>
+    <Price>AZN 1.50</Price>
+    <Src>https://imageproxy.wolt.com/menu/menu-images/86e0b13a-b8d6-11e9-bea3-0a58646554a3_IMG_7733.jpeg</Src>
+  </FoodDto>
+  <FoodDto>
+    <Id>3</Id>
+    <Name>Pizza Green Margherita</Name>
+    <Price>AZN 13.50</Price>
+    <Src>https://imageproxy.wolt.com/menu/menu-images/e0101a12-b6b4-11e9-b130-0a5864667e15_GREEN-MARGARI_TA.jpeg</Src>
+  </FoodDto>
+  <FoodDto>
+    <Id>4</Id>
+    <Name>Pizza Spinach Ricotta</Name>
+    <Price>AZN 12.00</Price>
+    <Src>https://imageproxy.wolt.com/menu/menu-images/0e1f5cec-b6b5-11e9-8523-0a586465fe97_ISPANAKLI-Ricotta.jpeg</Src>
+  </FoodDto>
+  <FoodDto>
+    <Id>5</Id>
+    <Name>Pizza Ricotta</Name>
+    <Price>AZN 14.50</Price>
+    <Src>https://imageproxy.wolt.com/menu/menu-images/1ed07b74-b6b6-11e9-9943-0a586465d88e_RI_COTTA.jpeg</Src>
+  </FoodDto>
+  <FoodDto>
+    <Id>6</Id>
+    <Name>Five Cheese Pizza</Name>
+    <Price>AZN 14.00</Price>
+    <Src>https://imageproxy.wolt.com/menu/menu-images/efad5066-b8da-11e9-9b72-0a5864652f1f_DO_RT-PEYNI_RLI_.jpeg</Src>
+  </FoodDto>
+  <FoodDto>
+    <Id>7</Id>
+    <Name>Zucchini Pizza</Name>
+    <Price>AZN 13.50</Price>
+    <Src>https://imageproxy.wolt.com/menu/menu-images/c126e430-b6b6-11e9-b0c8-0a5864661858_KABAKLI.jpeg</Src>
+  </FoodDto>
+  <FoodDto>
+    <Id>8</Id>
+    <Name>Eggplant Pizza</Name>
+    <Price>AZN 13.50</Price>
+    <Src>https://imageproxy.wolt.com/menu/menu-images/3e067ce0-b6b7-11e9-abdb-0a586466198e_PATLICAN.jpeg</Src>
+  </FoodDto>
+  <FoodDto>
+    <Id>9</Id>
+    <Name>Artichoke Pizza</Name>
+    <Price>AZN 17.00</Price>
+    <Src>https://imageproxy.wolt.com/menu/menu-images/b4599110-b6c7-11e9-aa9f-0a5864668320_ENGI_NARLI.jpeg</Src>
+  </FoodDto>
+  <FoodDto>
+    <Id>10</Id>
+    <Name>Mushroom Pizza</Name>
+    <Price>AZN 12.00</Price>
+    <Src>https://imageproxy.wolt.com/menu/menu-images/e7beced6-b6b7-11e9-8e96-0a58646354d4_MANTARLI.jpeg</Src>
+  </FoodDto>
+  <FoodDto>
+    <Id>11</Id>
+    <Name>Vegan Pizza 🥬</Name>
+    <Price>AZN 13.50</Price>
+    <Src>https://imageproxy.wolt.com/menu/menu-images/88d1cb24-b6b9-11e9-b022-0a586465545e_VEGAN.jpeg</Src>
+  </FoodDto>
+  <FoodDto>
+    <Id>12</Id>
+    <Name>Cheese Filled Sausage Pizza</Name>
+    <Price>AZN 14.50</Price>
+    <Src>https://imageproxy.wolt.com/menu/menu-images/caf737d8-b6c7-11e9-ad14-0a586465d88a_CHEDDAR-DOLGULU-SOSI_S.jpeg</Src>
+  </FoodDto>
+  <FoodDto>
+    <Id>13</Id>
+    <Name>Soujouk Pizza</Name>
+    <Price>AZN 21.00</Price>
+    <Src>https://imageproxy.wolt.com/menu/menu-images/1dd3d404-b6bc-11e9-aaa7-0a5864667609_sucuklu.jpeg</Src>
+  </FoodDto>
+  <FoodDto>
+    <Id>14</Id>
+    <Name>Chicken Caesar Pizza</Name>
+    <Price>AZN 15.20</Price>
+    <Src>https://imageproxy.wolt.com/menu/menu-images/637fe59c-b6bc-11e9-8ded-0a5864601048_Tavuk_Sezar.jpeg</Src>
+  </FoodDto>
+  <FoodDto>
+    <Id>15</Id>
+    <Name>Mixed Pizza</Name>
+    <Price>AZN 22.50</Price>
+    <Src>https://imageproxy.wolt.com/menu/menu-images/a263684c-b6bc-11e9-91e1-0a58646559ca_Kar_s__k.jpeg</Src>
+  </FoodDto>
+  <FoodDto>
+    <Id>16</Id>
+    <Name>Smoked Rib Steak Pizza</Name>
+    <Price>AZN 19.50</Price>
+    <Src>https://imageproxy.wolt.com/menu/menu-images/4675c6d4-b8d7-11e9-96c8-0a58646554a3_IMG_7735.jpeg</Src>
+  </FoodDto>
+  <FoodDto>
+    <Id>17</Id>
+    <Name>Pepperoni Pizza</Name>
+    <Price>AZN 18.00</Price>
+    <Src>https://imageproxy.wolt.com/menu/menu-images/5b162d98-b6bd-11e9-b080-0a586465fe97_pepperoni.jpeg</Src>
+  </FoodDto>
+  <FoodDto>
+    <Id>18</Id>
+    <Name>Roasted Beef Pizza</Name>
+    <Price>AZN 22.50</Price>
+    <Src>https://imageproxy.wolt.com/menu/menu-images/2aaad4ba-b6bd-11e9-9849-0a586465d88a_Kavurmal_.jpeg</Src>
+  </FoodDto>
+  <FoodDto>
+    <Id>19</Id>
+    <Name>Salami Pizza</Name>
+    <Price>AZN 16.00</Price>
+    <Src>https://imageproxy.wolt.com/menu/menu-images/be5decfe-b8d6-11e9-a8f1-0a586466cc0e_pizza_kolbasa.jpeg</Src>
+  </FoodDto>
+  <FoodDto>
+    <Id>20</Id>
+    <Name>Mini Salami Pizza</Name>
+    <Price>AZN 14.00</Price>
+    <Src>https://imageproxy.wolt.com/menu/menu-images/d5b07b42-b8d6-11e9-9830-0a586466cc0e_mini_kolbasa.jpeg</Src>
+  </FoodDto>
+  <FoodDto>
+    <Id>21</Id>
+    <Name>Teriyaki Chicken Pizza</Name>
+    <Price>AZN 15.20</Price>
+    <Src>https://imageproxy.wolt.com/menu/menu-images/010ad73a-b6c3-11e9-8cc3-0a5864655ca7_Teriyaki_Tavuk.jpeg</Src>
+  </FoodDto>
+  <FoodDto>
+    <Id>22</Id>
+    <Name>Smoked Turkey Pizza</Name>
+    <Price>AZN 18.50</Price>
+    <Src>https://imageproxy.wolt.com/menu/menu-images/0e8c7eb6-b8d7-11e9-a6a4-0a58646554a3_IMG_7731.jpeg</Src>
+  </FoodDto>
+  <FoodDto>
+    <Id>23</Id>
+    <Name>Chicken BBQ Pizza</Name>
+    <Price>AZN 15.20</Price>
+    <Src>https://imageproxy.wolt.com/menu/menu-images/2c217e56-b6c3-11e9-a8bb-0a586465d88a_BBQ_Tavuk.jpeg</Src>
+  </FoodDto>
+  <FoodDto>
+    <Id>24</Id>
+    <Name>Tuna Pizza</Name>
+    <Price>AZN 19.00</Price>
+    <Src>https://imageproxy.wolt.com/menu/menu-images/545d12b8-b6c3-11e9-906c-0a586465545e_Ton-Bal_kl_.jpeg</Src>
+  </FoodDto>
+  <FoodDto>
+    <Id>25</Id>
+    <Name>Smoked Salmon Pizza</Name>
+    <Price>AZN 25.00</Price>
+    <Src>https://imageproxy.wolt.com/menu/menu-images/c72bc316-b6c3-11e9-a98a-0a586465545e_Somon_Fu_me.jpeg</Src>
+  </FoodDto>
+  <FoodDto>
+    <Id>26</Id>
+    <Name>Shrimp Pizza</Name>
+    <Price>AZN 19.50</Price>
+    <Src>https://imageproxy.wolt.com/menu/menu-images/167a2750-b6c4-11e9-a2c9-0a5864667e11_Karidesli.jpeg</Src>
+  </FoodDto>
+  <FoodDto>
+    <Id>27</Id>
+    <Name>Calzone Margherita</Name>
+    <Price>AZN 12.50</Price>
+    <Src>https://imageproxy.wolt.com/menu/menu-images/863cfada-b8d7-11e9-99b6-0a586466cc0e_Calzone.jpeg</Src>
+  </FoodDto>
+  <FoodDto>
+    <Id>28</Id>
+    <Name>Calzone Salami</Name>
+    <Price>AZN 14.50</Price>
+    <Src>https://imageproxy.wolt.com/menu/menu-images/91fc08c0-b8d7-11e9-b63d-0a58646618df_Calzone.jpeg</Src>
+  </FoodDto>
+  <FoodDto>
+    <Id>29</Id>
+    <Name>Sausage Calzone</Name>
+    <Price>AZN 14.50</Price>
+    <Src>https://imageproxy.wolt.com/menu/menu-images/9ddcaff0-b8d7-11e9-9e60-0a586466cc0e_Calzone.jpeg</Src>
+  </FoodDto>
+  <FoodDto>
+    <Id>30</Id>
+    <Name>Sausage Calzone</Name>
+    <Price>AZN 14.50</Price>
+    <Src>https://imageproxy.wolt.com/menu/menu-images/9ddcaff0-b8d7-11e9-9e60-0a586466cc0e_Calzone.jpeg</Src>
+  </FoodDto>
+</ArrayOfFoodDto>

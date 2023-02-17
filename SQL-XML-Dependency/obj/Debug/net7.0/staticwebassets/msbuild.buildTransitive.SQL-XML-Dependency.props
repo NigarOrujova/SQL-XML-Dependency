@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\SQL-XML-Dependency.props" />
-</Project>
