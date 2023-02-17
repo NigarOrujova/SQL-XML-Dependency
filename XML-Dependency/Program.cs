@@ -11,6 +11,11 @@ builder.Services.AddSignalR();
 builder.Services.AddHostedService<BackgroundWorkerService>();
 builder.Services.AddControllersWithViews();
 builder.Services.AddAutoMapper(typeof(Program));
+builder.Services.AddStackExchangeRedisCache(options =>
+{
+    options.Configuration = builder.Configuration.GetConnectionString("redis");
+    options.InstanceName = "CodeAcademyRedis_";
+});
 builder.Services.AddDbContext<AppDbContext>(cfg =>
 {
     cfg.UseSqlServer(builder.Configuration.GetConnectionString("cString"));
